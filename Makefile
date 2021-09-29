@@ -1,7 +1,4 @@
-.PHONY: setup-repo build install update clean purge
-
-setup-repo:
-	git remote add aur ssh://aur@aur.archlinux.org/dmenu-grid.git
+.PHONY: build install update clean purge
 
 build:
 	makepkg
