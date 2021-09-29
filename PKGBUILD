@@ -1,9 +1,9 @@
 # Maintainer: Gregory G Danielson III <gregdan3@protonmail.com>
 
-pkgname=dmenu-grid
+pkgname=dmenu
 pkgver=5.0
 pkgrel=2
-pkgdesc="A menu for quickly opening applications. Grid/Gridnav patches pre-applied."
+pkgdesc="A menu for quickly opening applications. Some patches pre-applied."
 arch=("any")
 license=('MIT')
 depends=()
