@@ -1,7 +1,7 @@
 pkgbase = dmenu
 	pkgdesc = A menu for quickly opening applications. Some patches pre-applied.
 	pkgver = 5.0
-	pkgrel = 2
+	pkgrel = 1
 	url = https://tools.suckless.org/dmenu
 	arch = any
 	license = MIT

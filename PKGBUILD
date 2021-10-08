@@ -2,7 +2,7 @@
 
 pkgname=dmenu
 pkgver=5.0
-pkgrel=2
+pkgrel=1
 pkgdesc="A menu for quickly opening applications. Some patches pre-applied."
 arch=("any")
 license=('MIT')
