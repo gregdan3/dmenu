@@ -14,4 +14,4 @@ update:
 	# User: Go commit!
 
 clean:
-	rm -rf pkg src dmenu-grid *.diff *.zst
+	rm -rf pkg src dmenu *.diff *.zst
